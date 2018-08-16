@@ -2,6 +2,7 @@
 
 [ignore]
 .*/node_modules/cypress/dist/*
+.*/node_modules/module-deps/test/invalid_pkg/package.json
 
 [options]
 module.system.node.resolve_dirname=node_modules
